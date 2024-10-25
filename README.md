@@ -96,6 +96,7 @@ After promoting your server, access **Routing and Remote Access** from Server Ma
 
 <img src="https://github.com/user-attachments/assets/2730a84b-13ed-4425-98eb-6c3c522fb3bc" height="80%" width="80%" alt=""/>
 <img src="https://github.com/user-attachments/assets/0a01696b-39d1-48fe-98ed-2177a16b842d" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/a658b3b6-6604-47cc-82ce-58c35383f499" height="80%" width="80%" alt=""/>
 
 ### Step 9: Automate User Creation with PowerShell
 1. Open PowerShell as an administrator on your server.
