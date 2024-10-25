@@ -14,23 +14,27 @@ This project involves setting up a home lab using Oracle VirtualBox to create a 
 - **Windows Server 2019**
 - **Oracle VirtualBox**
 
-## Prerequisites
-Before you begin, ensure you have the following:
-- Oracle VirtualBox installed on your computer.
-- Windows 10 ISO.
-- Windows Server 2019 ISO.
+## Step-by-Step Instructions
+
+### 1. Introduction
+Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. It allows for centralized management of users and resources. A Domain Controller (DC) is a server that hosts AD and manages authentication requests.
+
+### 2. Requirements
+To get started, you will need the following software and hardware:
+- **Oracle VirtualBox**
+- **Windows 10 ISO**
+- **Windows Server 2019 ISO**
+
+<p align="center">
+Code Overview: <br/> 
+<img src="https://github.com/user-attachments/assets/947165b2-e80a-4bcd-8e48-0fd037a4b7c8" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
+<br />
+<p align="center">
+Code Overview: <br/>
+<img src="https://github.com/user-attachments/assets/9983f264-f5bf-45e4-bde2-3eb4fe916383" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
+<br />
 
 
-## Project Walkthrough:
-
-### Setting Up Your Environment
-1. **Install Oracle VirtualBox**: Download and install Oracle VirtualBox from [the official website](https://www.virtualbox.org/).
-2. **Create Virtual Machines**: Set up two VMs:
-   - One for **Windows Server 2019** (to host Active Directory).
-   - One for **Windows 10** (for client access).
-3. **Install Windows Server 2019**: Follow the installation prompts to set up your server.
-
-   ![Windows Server Installation](link-to-your-screenshot)
 <p align="center">
 Code Overview: <br/>
 <img src="https://github.com/user-attachments/assets/aa91d9b6-9557-4595-8157-7c14b7762f91" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
