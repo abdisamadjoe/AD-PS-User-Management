@@ -17,13 +17,15 @@ This project involves setting up a home lab using Oracle VirtualBox to create a 
 ## Step-by-Step Instructions
 
 ### 1. Introduction
-Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. It allows for centralized management of users and resources. A Domain Controller (DC) is a server that hosts AD and manages authentication requests.
+Active Directory (AD) is Microsoft’s directory service for Windows networks. It helps you manage users and resources centrally. A Domain Controller (DC) hosts AD and handles authentication requests.
 
 ### 2. Requirements
-To get started, you will need the following software and hardware:
+Before we dive in, make sure you have:
 - **Oracle VirtualBox**
 - **Windows 10 ISO**
 - **Windows Server 2019 ISO**
+
+<img src="https://github.com/user-attachments/assets/73df22f2-7e24-455b-933f-cd51a69a0959" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
 
 <p align="center">
 Code Overview: <br/> 
