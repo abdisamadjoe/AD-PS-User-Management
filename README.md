@@ -45,21 +45,6 @@ Start by installing Oracle VirtualBox on your host machine. This software will a
 <img src="https://github.com/user-attachments/assets/aff86e5e-177b-4243-b7ee-0f77de9da5f7" height="80%" width="80%" alt=""/>
 <img src="https://github.com/user-attachments/assets/a2c06ceb-8165-4949-8b24-7f0380f6d31e" height="80%" width="80%" alt=""/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Step 4: Configure Server Roles
 1. Open **Server Manager**. You will see a dashboard with server information.
 2. Click on **Add roles and features** to open the wizard.
@@ -68,7 +53,10 @@ Start by installing Oracle VirtualBox on your host machine. This software will a
    - **DHCP Server**
    - **Routing**
 
-   **Screenshot**: (Include a screenshot of the Server Manager with roles being added.)
+<img src="https://github.com/user-attachments/assets/fc43bf13-15fc-4b70-a83c-75b3bb38e283" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/02e9444b-0a02-4452-9f6d-ed549f53f75d" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/9f5cdd40-b2ed-4ea8-9917-39011c35f1dc" height="80%" width="80%" alt=""/>
+
 
 ### Step 5: Promote to Domain Controller
 1. In Server Manager, you will see a notification flag indicating the AD DS role has been installed. Click on it to promote the server to a Domain Controller.
