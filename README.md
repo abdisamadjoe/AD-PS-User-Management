@@ -1,15 +1,16 @@
 # Active Directory & User Management with PowerShell (Homelab) Walkthrough
 ## Description
-This project is a Python-based tool that assesses the complexity of passwords. It evaluates the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The tool then provides feedback, classifying the password as strong, moderate, or weak based on the criteria met.
+This project involves setting up a home lab using Oracle VirtualBox to create a network environment with Windows 10 and Windows Server 2019. The lab will utilize Active Directory (AD) for user management, leveraging PowerShell to automate the creation of random users. This setup aims to provide hands-on experience in managing AD, enhancing skills in Windows Server administration, and scripting with PowerShell. Users will learn how to configure AD, implement user policies, and generate user accounts efficiently through PowerShell commands.
 
 ## Languages and Utilities Used
 
-- **Python**
+- **PowerShell**
 
 ## Environments Used 
 
-- **Windows 11**
-- **Visual Studio Code**
+- **Windows 10**
+- **Windows Server 2019**
+- **Oracle VirtualBox**
 
 ## Project Walkthrough:
 
