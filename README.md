@@ -83,7 +83,8 @@ After promoting your server, access **Routing and Remote Access** from Server Ma
 2. Create a new IP address scope for the DHCP server and configure it as needed.
 3. Add users to **mydomain.com** by right-clicking on the Users container and selecting **New > User**.
 
-   **Screenshot**: (Show the interface of Active Directory Users and Computers, highlighting user creation.)
+<img src="https://github.com/user-attachments/assets/5f4dac4a-3e1e-4e90-8ce4-682636a46cc6" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/a418474c-e6ff-4c77-8e61-1fa6463cb9c6" height="80%" width="80%" alt=""/>
 
 ### Step 8: Test Windows Client Connectivity
 1. Open your Windows 10 client VM and check if it’s connected to the **mydomain.com** server.
