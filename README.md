@@ -94,7 +94,8 @@ After promoting your server, access **Routing and Remote Access** from Server Ma
 3. Join the domain by entering **mydomain.com** and providing domain credentials.
 4. Log in using the user accounts created on the server.
 
-   **Screenshot**: (Capture the Windows login screen showing the two user accounts.)
+<img src="https://github.com/user-attachments/assets/2730a84b-13ed-4425-98eb-6c3c522fb3bc" height="80%" width="80%" alt=""/>
+
 
 ### Step 9: Automate User Creation with PowerShell
 1. Open PowerShell as an administrator on your server.
