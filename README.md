@@ -98,13 +98,26 @@ After promoting your server, access **Routing and Remote Access** from Server Ma
 <img src="https://github.com/user-attachments/assets/0a01696b-39d1-48fe-98ed-2177a16b842d" height="80%" width="80%" alt=""/>
 <img src="https://github.com/user-attachments/assets/a658b3b6-6604-47cc-82ce-58c35383f499" height="80%" width="80%" alt=""/>
 
-### Step 9: Automate User Creation with PowerShell
-1. Open PowerShell as an administrator on your server.
-2. Use the provided PowerShell script to create random users:
-   - Download the script from this repository.
-   - Run the script to create users automatically in Active Directory.
+### Step 9: Automate User Creation with PowerShell ISE
 
-   **Screenshot**: (Include a screenshot of the PowerShell script in action.)
+1. **Open PowerShell ISE**:
+   - Launch **PowerShell ISE** as an administrator on your server.
+
+2. **Set Execution Policy**:
+   - Before running the script, execute the following command to set the execution policy:
+     ```powershell
+     Set-ExecutionPolicy Unrestricted
+     ```
+
+3. **Download and Modify the Script**:
+   - Download the PowerShell script from this repository.
+   - Make sure to update the path in the script to point to the `names.txt` document. The file path should be correctly specified to ensure it can access the names for user creation.
+
+4. **Run the Script**:
+   - Execute the script to create users automatically in Active Directory.
+
+<img src="https://github.com/user-attachments/assets/cba6415e-6771-438f-8d48-cb4dba4ef346" height="80%" width="80%" alt=""/>
+
 
 ## Conclusion
 Congratulations! You've successfully set up an Active Directory environment and learned how to manage user accounts using PowerShell. This configuration is essential for any network administrator and will enhance your skills in Windows server management.
