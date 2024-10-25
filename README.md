@@ -34,7 +34,7 @@ Before we dive in, make sure you have:
    - Open VirtualBox and click "New" to start.
      
 <img src="https://github.com/user-attachments/assets/947165b2-e80a-4bcd-8e48-0fd037a4b7c8" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
-<br />
+
 ### 4. Installing Windows Server
 1. **Start your VM** and mount the Windows Server ISO.
 2. **Follow the installation prompts**, selecting your language and version.
