@@ -20,7 +20,7 @@ This project involves setting up a home lab using Oracle VirtualBox to create a 
 ### Step 1: Set Up Your Environment
 Start by installing Oracle VirtualBox on your host machine. This software will allow you to create and manage virtual machines.
 
-<img src="https://github.com/user-attachments/assets/73df22f2-7e24-455b-933f-cd51a69a0959" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/6d323fd1-f7b9-4a89-bbbf-5996e991a275" height="80%" width="80%" alt=""/>
 
 ### Step 2: Install Windows Server
 1. Open VirtualBox and create a new VM:
