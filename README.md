@@ -23,6 +23,14 @@ Before you begin, ensure you have the following:
 
 ## Project Walkthrough:
 
+### Setting Up Your Environment
+1. **Install Oracle VirtualBox**: Download and install Oracle VirtualBox from [the official website](https://www.virtualbox.org/).
+2. **Create Virtual Machines**: Set up two VMs:
+   - One for **Windows Server 2019** (to host Active Directory).
+   - One for **Windows 10** (for client access).
+3. **Install Windows Server 2019**: Follow the installation prompts to set up your server.
+
+   ![Windows Server Installation](link-to-your-screenshot)
 <p align="center">
 Code Overview: <br/>
 <img src="https://github.com/user-attachments/assets/aa91d9b6-9557-4595-8157-7c14b7762f91" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
