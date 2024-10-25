@@ -1,4 +1,6 @@
 # Active Directory & User Management with PowerShell (Homelab) Walkthrough
+<img src="https://github.com/user-attachments/assets/f594a2ef-64b6-483c-8476-8585356d4226" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
+
 ## Description
 This project involves setting up a home lab using Oracle VirtualBox to create a network environment with Windows 10 and Windows Server 2019. The lab will utilize Active Directory (AD) for user management, leveraging PowerShell to automate the creation of random users. This setup aims to provide hands-on experience in managing AD, enhancing skills in Windows Server administration, and scripting with PowerShell. Users will learn how to configure AD, implement user policies, and generate user accounts efficiently through PowerShell commands.
 
