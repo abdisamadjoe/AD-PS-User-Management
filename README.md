@@ -15,12 +15,6 @@ This project involves setting up a home lab using Oracle VirtualBox to create a 
 - **Windows Server 2019**
 - **Oracle VirtualBox**
 
-## Requirements
-Before we dive in, make sure you have:
-- **Oracle VirtualBox**
-- **Windows 10 ISO**
-- **Windows Server 2019 ISO**
-
 ## Step-by-Step Instructions
 
 ### Step 1: Set Up Your Environment
