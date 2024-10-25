@@ -1,5 +1,5 @@
 # Active Directory & User Management with PowerShell (Homelab) Walkthrough
-<p align="center">
+
   <img src="https://github.com/user-attachments/assets/f594a2ef-64b6-483c-8476-8585356d4226" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
 
 ## Description
@@ -31,9 +31,9 @@ Before we dive in, make sure you have:
 2. **Create a new VM for Windows Server**:
    - Open VirtualBox and click "New" to start.
 
-<p align="center"> 
+
   <img src="https://github.com/user-attachments/assets/73df22f2-7e24-455b-933f-cd51a69a0959" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
-</p>
+
 ### 3. Setting Up Oracle VirtualBox
 1. **Download and install Oracle VirtualBox** from [the official site](https://www.virtualbox.org/).
 2. **Create a new VM for Windows Server**:
