@@ -28,7 +28,9 @@ Start by installing Oracle VirtualBox on your host machine. This software will a
 2. Mount the Windows Server ISO you obtained earlier.
 3. Start the VM and follow the installation prompts to install Windows Server.
 
-   **Screenshot**: (Capture the process of creating the VM and the Windows Server installation.)
+<img src="https://github.com/user-attachments/assets/947165b2-e80a-4bcd-8e48-0fd037a4b7c8" height="80%" width="80%" alt=""/>
+
+<img src="https://github.com/user-attachments/assets/9983f264-f5bf-45e4-bde2-3eb4fe916383" height="80%" width="80%" alt=""/>
 
 ### Step 3: Add Guest Additions
 1. Once the Windows Server installation is complete, install the Guest Additions to improve performance:
@@ -43,10 +45,7 @@ Start by installing Oracle VirtualBox on your host machine. This software will a
 
 
 
-<img src="https://github.com/user-attachments/assets/947165b2-e80a-4bcd-8e48-0fd037a4b7c8" height="80%" width="80%" alt=""/>
 
-
-<img src="https://github.com/user-attachments/assets/9983f264-f5bf-45e4-bde2-3eb4fe916383" height="80%" width="80%" alt=""/>
 
 
 
