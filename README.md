@@ -23,40 +23,6 @@ Before we dive in, make sure you have:
 
 ## Step-by-Step Instructions
 
-### 1. Introduction
-Active Directory (AD) is Microsoft’s directory service for Windows networks. It helps you manage users and resources centrally. A Domain Controller (DC) hosts AD and handles authentication requests.
-
-### 2. Requirements
-Before we dive in, make sure you have:
-- **Oracle VirtualBox**
-- **Windows 10 ISO**
-- **Windows Server 2019 ISO**
-
-  <img src="https://github.com/user-attachments/assets/73df22f2-7e24-455b-933f-cd51a69a0959" height="80%" width="80%" alt=""/>
-
-### 3. Setting Up Oracle VirtualBox
-1. **Download and install Oracle VirtualBox** from [the official site](https://www.virtualbox.org/).
-2. **Create a new VM for Windows Server**:
-   - Open VirtualBox and click "New" to start.
-     
-<img src="https://github.com/user-attachments/assets/947165b2-e80a-4bcd-8e48-0fd037a4b7c8" height="80%" width="80%" alt=""/>
-
-### 4. Installing Windows Server
-1. **Start your VM** and mount the Windows Server ISO.
-2. **Follow the installation prompts**, selecting your language and version.
-
-<img src="https://github.com/user-attachments/assets/9983f264-f5bf-45e4-bde2-3eb4fe916383" height="80%" width="80%" alt=""/>
-
-
-
-# Active Directory & User Management with PowerShell
-
-## Overview
-Welcome to the **Active Directory & User Management with PowerShell** project! This guide is designed to help you set up an Active Directory (AD) environment using Oracle VirtualBox, Windows 10, and Windows Server 2019. By the end of this walkthrough, you'll be able to configure a Domain Controller, manage user accounts, and automate user creation with PowerShell.
-
-
-## Step-by-Step Instructions
-
 ### Step 1: Set Up Your Environment
 Start by installing Oracle VirtualBox on your host machine. This software will allow you to create and manage virtual machines.
 
@@ -78,6 +44,23 @@ Start by installing Oracle VirtualBox on your host machine. This software will a
    - Navigate to **Network and Sharing Center**, select **Change adapter settings**, right-click on the network adapter, and select **Properties**. Configure the IP address.
 
    **Screenshot**: (Show the process of adding Guest Additions, changing hostname, and setting static IP.)
+
+  <img src="https://github.com/user-attachments/assets/73df22f2-7e24-455b-933f-cd51a69a0959" height="80%" width="80%" alt=""/>
+
+
+<img src="https://github.com/user-attachments/assets/947165b2-e80a-4bcd-8e48-0fd037a4b7c8" height="80%" width="80%" alt=""/>
+
+
+<img src="https://github.com/user-attachments/assets/9983f264-f5bf-45e4-bde2-3eb4fe916383" height="80%" width="80%" alt=""/>
+
+
+
+
+
+
+
+
+
 
 ### Step 4: Configure Server Roles
 1. Open **Server Manager**. You will see a dashboard with server information.
