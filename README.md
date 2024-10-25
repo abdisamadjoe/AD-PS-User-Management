@@ -67,12 +67,16 @@ Start by installing Oracle VirtualBox on your host machine. This software will a
 <img src="https://github.com/user-attachments/assets/762ddc78-9ea0-42db-a143-3610bc408ed7" height="80%" width="80%" alt=""/>
 <img src="https://github.com/user-attachments/assets/6453f479-883f-49e3-82cd-12748d03e7ac" height="80%" width="80%" alt=""/>
 
-### Step 6: Configure Remote Access
-1. After promoting your server, access **Remote Access Management** from Server Manager.
-2. Click on **Configure Remote Access** and proceed with the default options by clicking **Next**.
-3. Choose **NAT** for the network topology and select **internal network**.
+### Step 6: Configure Routing and Remote Access
 
-   **Screenshot**: (Show the Remote Access Management configuration screen.)
+After promoting your server, access **Routing and Remote Access** from Server Manager.
+
+1. Click on **Configure and Enable Routing and Remote Access**.
+2. Proceed with the default options by clicking **Next**.
+3. Choose **NAT** for the network topology and select the **Internal Network** option.
+   
+<img src="https://github.com/user-attachments/assets/eb2de298-86a3-4e58-bdfa-3874a32c1ed6" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/9d14f2a8-b537-4e24-bc85-bed49b38fc0c" height="80%" width="80%" alt=""/>
 
 ### Step 7: Manage Active Directory
 1. Open **Active Directory Users and Computers** from the Administrative Tools menu.
