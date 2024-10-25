@@ -28,7 +28,7 @@ Before we dive in, make sure you have:
 
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/73df22f2-7e24-455b-933f-cd51a69a0959" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
-<br>
+</p>
 ### 3. Setting Up Oracle VirtualBox
 1. **Download and install Oracle VirtualBox** from [the official site](https://www.virtualbox.org/).
 2. **Create a new VM for Windows Server**:
