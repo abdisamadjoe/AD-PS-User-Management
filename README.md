@@ -31,7 +31,7 @@ Start by installing Oracle VirtualBox on your host machine. This software will a
 
 <img src="https://github.com/user-attachments/assets/ccaa7320-565a-4430-91f2-beea963965cf" height="80%" width="80%" alt=""/>
 
-<img src="https://github.com/user-attachments/assets/9983f264-f5bf-45e4-bde2-3eb4fe916383" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/a5af0a16-2904-44d0-865a-fcd40b87542b" height="80%" width="80%" alt=""/>
 
 ### Step 3: Install Guest Additions and Configure Static IP Address
 1. Once the Windows Server installation is complete, install the Guest Additions to improve performance:
