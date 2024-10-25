@@ -64,7 +64,8 @@ Start by installing Oracle VirtualBox on your host machine. This software will a
    - Choose to add a new forest and enter **mydomain.com** as the domain name.
 3. Complete the wizard and allow the server to restart.
 
-   **Screenshot**: (Capture the promotion process and the configuration steps.)
+<img src="https://github.com/user-attachments/assets/762ddc78-9ea0-42db-a143-3610bc408ed7" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/6453f479-883f-49e3-82cd-12748d03e7ac" height="80%" width="80%" alt=""/>
 
 ### Step 6: Configure Remote Access
 1. After promoting your server, access **Remote Access Management** from Server Manager.
