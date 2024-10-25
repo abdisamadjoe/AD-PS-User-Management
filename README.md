@@ -85,6 +85,7 @@ After promoting your server, access **Routing and Remote Access** from Server Ma
 
 <img src="https://github.com/user-attachments/assets/5f4dac4a-3e1e-4e90-8ce4-682636a46cc6" height="80%" width="80%" alt=""/>
 <img src="https://github.com/user-attachments/assets/a418474c-e6ff-4c77-8e61-1fa6463cb9c6" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/18b22b8f-21e7-4dd4-9c76-9c78b04dbf73" height="80%" width="80%" alt=""/>
 
 ### Step 8: Test Windows Client Connectivity
 1. Open your Windows 10 client VM and check if it’s connected to the **mydomain.com** server.
