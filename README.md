@@ -15,8 +15,9 @@ This project involves setting up a home lab using Oracle VirtualBox to create a 
 ## Prerequisites
 Before you begin, ensure you have the following:
 - Oracle VirtualBox installed on your computer.
-- Windows 10 and Windows Server 2019 installation media.
-- Basic understanding of Windows Server and PowerShell commands.
+- Windows 10 ISO
+- Windows Server 2019 ISO
+
 
 ## Project Walkthrough:
 
