@@ -41,7 +41,10 @@ Start by installing Oracle VirtualBox on your host machine. This software will a
 3. Set a static IP address on the internal network:
    - Navigate to **Network and Sharing Center**, select **Change adapter settings**, right-click on the network adapter, and select **Properties**. Configure the IP address.
 
-   **Screenshot**: (Show the process of adding Guest Additions, changing hostname, and setting static IP.)
+<img src="https://github.com/user-attachments/assets/05883df9-5837-4f17-aeb6-ed4c4727e7b4" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/aff86e5e-177b-4243-b7ee-0f77de9da5f7" height="80%" width="80%" alt=""/>
+<img src="https://github.com/user-attachments/assets/a2c06ceb-8165-4949-8b24-7f0380f6d31e" height="80%" width="80%" alt=""/>
+
 
 
 
