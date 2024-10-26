@@ -122,10 +122,4 @@ After promoting your server, access **Routing and Remote Access** from Server Ma
 ## Conclusion
 Congratulations! You've successfully set up an Active Directory environment and learned how to manage user accounts using PowerShell. This configuration is essential for any network administrator and will enhance your skills in Windows server management.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Thanks for following along! If you have any questions or feedback, feel free to reach out.
-
 
